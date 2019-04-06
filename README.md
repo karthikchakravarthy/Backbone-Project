@@ -1,3 +1,1 @@
-# hello-world1
-practice of github
-i am karthik. this is to learn github.
+In this project I am going to learn backbone and marionette along with developing a new application on Backbone and marionette and also linking it with rest api.
